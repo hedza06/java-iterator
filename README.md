@@ -24,8 +24,8 @@ Heril Muratović
 Software Engineer
 <br>
 **Mobile**: +38269657962
-**E-mail**: hedzaprog@gmail.com
-**Skype**: hedza06
-**Twitter**: hedzakirk
-**LinkedIn**: https://www.linkedin.com/in/heril-muratovi%C4%87-021097132/
+**E-mail**: hedzaprog@gmail.com  
+**Skype**: hedza06  
+**Twitter**: hedzakirk  
+**LinkedIn**: https://www.linkedin.com/in/heril-muratovi%C4%87-021097132/  
 **StackOverflow**: https://stackoverflow.com/users/4078505/heril-muratovic
