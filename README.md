@@ -20,10 +20,10 @@ Test code is placed in file **IteratorMain.java**.
 If someone is interesting in contribution please contact me on e-mail ```hedzaprog@gmail.com```.
 
 ## Author
-Heril Muratović
-Software Engineer
+Heril Muratović  
+Software Engineer  
 <br>
-**Mobile**: +38269657962
+**Mobile**: +38269657962  
 **E-mail**: hedzaprog@gmail.com  
 **Skype**: hedza06  
 **Twitter**: hedzakirk  
